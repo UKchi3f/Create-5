@@ -1,0 +1,13 @@
+name = "Greenhouse Gardener - A MineColonies Add-On"
+filename = "greenhousegardener-01.02.007.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4b86ac1da5b526ec5d002beb96ea61ec689463ee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8903511
+project-id = 1535902

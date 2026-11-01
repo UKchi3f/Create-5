@@ -1,0 +1,13 @@
+name = "Minecolonies Caravans"
+filename = "caravan-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f821ba51a1d697080a828874e7dba8911a71ded1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9121200
+project-id = 1658696

@@ -1,0 +1,13 @@
+name = "Lunara Colonies - Style Pack"
+filename = "neoforge-lunara-colonies-1.21.1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac27661f331e2b4e403307a5a6a8204d3190d9d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8445089
+project-id = 1409914

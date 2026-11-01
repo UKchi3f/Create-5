@@ -1,0 +1,13 @@
+name = "Dappled backport"
+filename = "dappled_backport-1.0.1-neoforge-1.21.1(1).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b3981dd568f15c632375aea6c1d13fd628523665"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9111519
+project-id = 1734632

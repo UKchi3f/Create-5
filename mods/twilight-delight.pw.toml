@@ -1,0 +1,13 @@
+name = "Twilight Delight"
+filename = "twilightdelight-3.2.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d6cSefpO/versions/MFC7tDeW/twilightdelight-3.2.9.jar"
+hash-format = "sha1"
+hash = "97c9318929734f6fe0eb68a890acc7e9443640a4"
+
+[update]
+[update.modrinth]
+mod-id = "d6cSefpO"
+version = "MFC7tDeW"

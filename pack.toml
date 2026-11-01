@@ -1,0 +1,12 @@
+name = "Create 5"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "359f6f66b9847d7ac20c1febfa2b02b449b2219e99fb6ec02aafa0f4b9972364"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.250"
