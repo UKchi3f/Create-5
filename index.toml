@@ -686,8 +686,8 @@ hash = "52036d766eeb1b639503d237987878e7409933d5577d411b55b8b7a6633b5510"
 metafile = true
 
 [[files]]
-file = "mods/terrablender.pw.toml"
-hash = "4cdd3a94451efd61ad53cec5019557042cc9a3bc455632aa931663b70850958a"
+file = "mods/terrablender-neoforge.pw.toml"
+hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
 metafile = true
 
 [[files]]
@@ -782,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaero-colonies.pw.toml"
-hash = "99d10da743766eb0e766d3eb71d8a1739b207c6b17f63df357715402908417b7"
+hash = "98e3a5136731cea6f2d713b14f84c678ceed6036b0c622b173f2a1a15047d815"
 metafile = true
 
 [[files]]
