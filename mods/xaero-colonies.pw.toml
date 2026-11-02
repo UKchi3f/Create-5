@@ -1,6 +1,6 @@
 name = "Xaero Colonies"
 filename = "XaeroColonies-1.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/IOEe4TYo/versions/acH8Y8Ov/XaeroColonies-1.0.jar"

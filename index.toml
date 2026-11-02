@@ -797,7 +797,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaero-colonies.pw.toml"
-hash = "98e3a5136731cea6f2d713b14f84c678ceed6036b0c622b173f2a1a15047d815"
+hash = "99d10da743766eb0e766d3eb71d8a1739b207c6b17f63df357715402908417b7"
 metafile = true
 
 [[files]]
@@ -817,7 +817,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ea108934fe2cc5e7d58763ca5949459052ce368a153822eec42d53273f93a58e"
+hash = "62eaf7c193d20dbec89944f6e1401ce64a80d8d704830a988d24c1498d8316e2"
 metafile = true
 
 [[files]]
