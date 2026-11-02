@@ -1,0 +1,13 @@
+name = "Advanced Emerald Mod"
+filename = "advanced_emerald-4.5.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9d1e894071628fe118ec0e242fd2485160336e79"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7026748
+project-id = 1073844

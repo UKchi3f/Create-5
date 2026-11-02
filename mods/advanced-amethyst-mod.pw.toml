@@ -1,0 +1,13 @@
+name = "Advanced Amethyst Mod"
+filename = "advanced_amethyst-1.5.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5231c98494b822158cceb7d7a9b90b854f63148f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7043519
+project-id = 1336639

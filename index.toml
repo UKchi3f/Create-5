@@ -21,6 +21,16 @@ file = "config/MinerTrack/language.yml"
 hash = "cd34a5f49ec920e7dc473e0cb0c1d3b9e676c5eaf60fdfa101f1616eff2d28f8"
 
 [[files]]
+file = "mods/advanced-amethyst-mod.pw.toml"
+hash = "bba5c038e4f35a88105e5fd2cd5a39bc9ff166b21d6052c7c7023fae4673a819"
+metafile = true
+
+[[files]]
+file = "mods/advanced-emerald-mod.pw.toml"
+hash = "73de81fe2d701fda762b9f83e2326b8504ecc604a85624e7ba03919ae478624e"
+metafile = true
+
+[[files]]
 file = "mods/aeroblender.pw.toml"
 hash = "30f2748e13772d67322f73dcf89f022b675f95a6446edc233eb7448f7ba75d4b"
 metafile = true
@@ -83,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "df0b0f316ef6a5c3225f8ee00e53085b404b4388bcf8f118b0be1835d4daa271"
 metafile = true
 
 [[files]]
@@ -807,4 +822,8 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
+hash = "b63543b1a42588a906c3bee2bd70d0db34910202b58eca58bcd7e5e7902c528c"
+
+[[files]]
+file = "servers.dat.bak-20261102"
 hash = "44fa92bc9cf8212e50d53cd047eac474c730e3318a90ea6e7efbf0d3fe277ff8"
