@@ -823,7 +823,3 @@ metafile = true
 [[files]]
 file = "servers.dat"
 hash = "b63543b1a42588a906c3bee2bd70d0db34910202b58eca58bcd7e5e7902c528c"
-
-[[files]]
-file = "servers.dat.bak-20261102"
-hash = "44fa92bc9cf8212e50d53cd047eac474c730e3318a90ea6e7efbf0d3fe277ff8"
